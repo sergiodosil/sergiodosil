@@ -1,0 +1,4 @@
+- 👋 Olá, son @sergiodosil, desenvolvedor de frontend con 3 anos de experiencia.
+- 🌱 Actualmente estou a aprender React e Vue.
+- 💞️ Estou aberto a colaborar en proxectos. 
+- 📫 Contacto: sergiodosil.dev@gmail.com ...
